@@ -1,0 +1,251 @@
+body {
+    background-image: url("./assets/Frame1.png");
+    width: 100vh;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin: 0;
+    z-index: 1;
+}
+
+#logo {
+    font-family: "Jaro", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 96px;
+    color: white;
+    margin: 0;
+    position: absolute;
+    left: 49px;
+    top: 4.8px;
+}
+
+.text1 {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: normal;
+    font-size: 128px;
+    color: #EAD8B1;
+    position: absolute;
+    left: 174.88px;
+    top: 350.88px;
+    margin: 0;
+}
+
+.rectangle {
+    background-color: #EAD8B1;
+    width: 632px;
+    height: 10px;
+    position: absolute;
+    top: 491.2px;
+    left: 174.88px;
+    border-radius: 64px;
+    margin: 0;
+}
+
+.text2 {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: normal;
+    font-size: 48px;
+    color: #EAD8B1;
+    margin: 0;
+    position: absolute;
+    top: 524.96px;
+    left: 174.88px;
+    width: 743px;
+    height: 174px;
+}
+
+#text {
+    margin-top: 408px;
+    position: absolute;
+    left: 160px;
+    font-size: 56px;
+}
+
+.arrow1 {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
+    font-size: 36px;
+    color: #DFD3C3;
+    text-wrap: balance;
+    text-align: center;
+    margin: 0;
+}
+
+.link {
+    display: inline;
+    color: white;
+    font-size: 32px;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: normal;
+    text-decoration: none;
+    position: absolute;
+    left: 560px;
+    top: 48px;
+    margin-top: +24px;
+}
+
+#about {
+    position: absolute;
+    left: 696px;
+    top: 49.6px;
+    margin: 0;
+}
+
+#contact {
+    position: absolute;
+    top: 49.6px;
+    left: 887px;
+    margin: 0;
+    display: none;
+}
+
+#home {
+    position: absolute;
+    left: 509px;
+    top: 49.6px;
+    margin: 0;
+}
+
+#text3 {
+    font-size: 48px;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    text-wrap: balance;
+    text-align: center;
+    color: #DFD3C3;
+    margin-top: 278.88px;
+    margin-left: 142.4px;
+    margin-bottom: 278.88px;
+    max-width: 1635px;
+}
+
+.need {
+    width: 922px;
+    height: 922px;
+    position: absolute;
+    top: 64px;
+    left: 960px;
+    margin: 0;
+}
+
+#rec1 {
+    width: 726px;
+    position: absolute;
+    left: 72px;
+    top: 188px;
+    background-color: #EAD8B1;
+}
+
+.num1 {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    color: #EAD8B1;
+    font-size: 96px;
+    position: absolute;
+    left: 72px;
+    top: 72px;
+    margin: 0;
+}
+
+.page2 {
+    background-image: url("./assets/Frame1.png");
+    width: 100%;
+    height: 100vh;
+    background-repeat: no-repeat;
+    z-index: 1;
+    position: absolute;
+    top: 1080px;
+    margin-top: -72px;
+}
+
+.text3 {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    color: #FFFFFF;
+    font-size: 48px;
+    position: absolute;
+    left: 72px;
+    top: 320px;
+    max-width: 986px;
+    margin: 0;
+}
+
+.need2 {
+    position: absolute;
+    margin: 0;
+    top: 118px;
+    left: 1120px;
+}
+
+#rec2 {
+    width: 1013px;
+    position: absolute;
+    top: 188px;
+    left: 72px;
+}
+
+#page3 {
+    position: absolute;
+    top: 2032px;
+    margin-top: -72px;
+}
+
+#text3 {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    color: #EAD8B1;
+    font-size: 96px;
+    position: absolute;
+    left: 72px;
+    top: 72px;
+    margin: 0;
+}
+
+#speed {
+    margin: 0;
+    position: absolute;
+    top: 273px;
+    left: 72px;
+    max-width: 986px;
+}
+
+#page4 {
+    position: absolute;
+    top: 2984px;
+}
+
+#flex4 {
+    margin: 0;
+}
+
+#rec3 {
+    margin: 0;
+    position: absolute;
+    top: 188px;
+    left: 72px;
+    width: 877px;
+}
+
+#need4 {
+    width: 454px;
+    height: 848px;
+    position: absolute;
+    top: 72px;
+    left: 1304px;
+    margin: 0;
+}
